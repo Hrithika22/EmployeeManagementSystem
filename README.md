@@ -3,7 +3,13 @@
 
 This is a web application designed to manage employee data, including their details, job roles, and departmental assignments. The system leverages Spring Boot for backend development, ReactJS for the frontend, and MySQL for database management.
 
-Key Features:
+### Dependencies:
+* Spring Boot Starter Web: For building web applications and RESTful services.
+* Spring Data JPA: For database access and ORM.
+* MySQL Driver: Allows the application to connect and interact with MySQL database.
+* ReactJS and Axios: For frontend development and asynchronous HTTP requests.
+
+## Key Features:
 
 ### Employee Management:
 
@@ -27,7 +33,7 @@ Conducted integration testing to ensure smooth interaction between frontend and 
 
 ### Optimizing Database Queries:
 
-Faced and resolved performance issues by optimizing database queries using Spring Data JPA.
+Resolved performance issues by optimizing database queries using Spring Data JPA.
 Security Enhancements:
 
 Successfully addressed security vulnerabilities by updating dependencies and applying security patches.
@@ -40,15 +46,6 @@ Frontend: ReactJS, HTML, CSS, Bootstrap
 Database: MySQL
 Tools: Axios, Postman, Git
 Detailed Implementation:
-
-### Dependencies:
-
-* Spring Boot Starter Web: For building web applications and RESTful services.
-* Spring Data JPA: For database access and ORM.
-* MySQL Driver: Allows the application to connect and interact with MySQL database.
-* ReactJS and Axios: For frontend development and asynchronous HTTP requests.
-
-
 
 
 # employee-management<img width="1417" alt="Screenshot 2022-06-14 at 14 47 09" src="https://user-images.githubusercontent.com/64640469/173594367-d363f981-2478-4466-8e3d-738eaf720fd2.png">
