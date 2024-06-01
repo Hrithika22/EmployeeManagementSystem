@@ -1,7 +1,7 @@
 # Employee Management System
 
 
-This is a web application designed to manage employee data, including their details, job roles, and departmental assignments. The system leverages Spring Boot for backend development, ReactJS for the frontend, and MySQL for database management.
+This is a web application designed to manage employee data, including their details, job roles, and departmental assignments. Utilized Spring Boot for backend development, ReactJS for the frontend, and MySQL for database management.
 
 ### Dependencies:
 * Spring Boot Starter Web: For building web applications and RESTful services.
